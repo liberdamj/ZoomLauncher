@@ -1,2 +1,2 @@
 # ZoomLauncher
-This is a Kivy Application that launches different zoom meetings. 
+This is an Application that launches different zoom meetings. 
